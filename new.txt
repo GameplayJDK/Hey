@@ -1,0 +1,7 @@
+<en-US>
+Initial app release.
+</en-US>
+
+<de-DE>
+Erstveröffentlichung der App.
+</de-DE>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Hey Android App
+  ~ Copyright (C) 2018  GameplayJDK
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+    <string name="initial_message">Hey!</string>
+
+    <string-array name="messages">
+        <item>@string/initial_message</item>
+
+        <item>What\' u doin\'!\?</item>
+        <item>Stop it!</item>
+        <item>Can\'t you see it\'s not workin\'\?</item>
+        <item>You\'re gettin\' on my nerves with this…</item>
+        <item>What the hell is happening!\?</item>
+        <item>Don\'t do that again. I dare you.</item>
+        <item>Well, I guess this switch will stay unflicked.</item>
+        <item>Is flippin\' levers a thing in 2018 now\?</item>
+        <item>It won\'t work.</item>
+        <item>Try dropping your phone, it might work then.</item>
+        <item>OK COOL</item>
+        <item>We can play this game for hours.</item>
+
+        <item>Literally asdf by now</item>
+        <item>I\'m out of words for this now.</item>
+        <item>If I could cry I probably would be lauhin\' now.</item>
+        <item>Please… I said PLEASE!</item>
+
+        <item>At some point this is just pointless…</item>
+        <item>If you\'re reading this it\'s too late.</item>
+
+        <item>Would you mind to just go away\?</item>
+        <item>Some things never change.</item>
+        <item>Boooooooring!</item>
+        <item>I think there aren\'t anoght messages in stock to keep doing this for long…</item>
+
+        <item>Hey, how\'s this: Information is not knowledge. Think about it.</item>
+
+        <item>I\'m currently busy, please wait…</item>
+
+        <item>Stay tuned. Maybe there\'ll be an actually interesting message after all.</item>
+
+        <item>At some point I just started googling for new text to put here.</item>
+        <item>And I really don\'t know what direction this will develop.</item>
+
+        <item>:)</item>
+
+        <!-- TODO: Add more messages. -->
+        <!-- TODO: Search https://www.brainyquote.com for more. -->
+
+        <item>(ಠ_ಠ)</item>
+        <item>(ಥ﹏ಥ)</item>
+        <item>(⊙ω⊙)</item>
+        <item>(•_•)</item>
+        <item>(ಠ╭╮ಠ)</item>
+        <item>(ಠ▃ಠ)</item>
+        <item>(ಠ益ಠ)</item>
+        <item>(ಠ_ಠ)</item>
+        <item>(ಠ~ಠ)</item>
+        <item>(╯°□°）╯︵ ┻━┻</item>
+    </string-array>
+</resources>
